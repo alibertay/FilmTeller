@@ -9,7 +9,7 @@ Please follow these steps for install FilmTeller to Chrome as extension.
 
 Please click to manage extensions.
 
-![alt text2](https://github.com/alibertay/FilmTeller/blob/main/img/FilmTeller2.png?raw=true)
+![alt text2](https://github.com/alibertay/FilmTeller/blob/main/img/FilmTeller2.PNG)
 
 Enable developer mode from right-up side of window.
 
